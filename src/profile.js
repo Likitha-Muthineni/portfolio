@@ -6,7 +6,7 @@ import { certificates } from "./certificates";
 // ============================================================
 
 export const profile = {
-  name: "Likitha Muthineni",
+  name: "Likitha",
   initials: "LM",
   role: "Java Full Stack Developer · Gen AI",
   location: "[Bengaluru, India]",
